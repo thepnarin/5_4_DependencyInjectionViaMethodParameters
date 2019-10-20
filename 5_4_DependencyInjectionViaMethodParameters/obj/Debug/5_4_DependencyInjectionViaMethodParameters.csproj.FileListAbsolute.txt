@@ -1,0 +1,13 @@
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\obj\Debug\5_4_DependencyInjectionViaMethodParameters.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\5_4_DependencyInjectionViaMethodParameters.exe.config
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\5_4_DependencyInjectionViaMethodParameters.exe
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\5_4_DependencyInjectionViaMethodParameters.pdb
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\EntityFramework.dll
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\EntityFramework.SqlServer.dll
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\Newtonsoft.Json.dll
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\EntityFramework.xml
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\EntityFramework.SqlServer.xml
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\bin\Debug\Newtonsoft.Json.xml
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\obj\Debug\5_4_DependencyInjectionViaMethodParameters.csproj.CopyComplete
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\obj\Debug\5_4_DependencyInjectionViaMethodParameters.exe
+D:\[OOP] - Object Oriented Programming\Test\5_4_DependencyInjectionViaMethodParameters\5_4_DependencyInjectionViaMethodParameters\obj\Debug\5_4_DependencyInjectionViaMethodParameters.pdb
